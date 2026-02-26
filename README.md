@@ -1,7 +1,16 @@
 ## Hi there, I'm Brooklyn 👋
 # 💫 About Me:
-I'm currently working on<br>FitTrack (AI-powered fitness app) and Kambaz Pazza (full-stack Q&A platform)<br>I'm looking to collaborate on<br>UI/UX projects and full-stack web or mobile apps<br>I'm looking for help with<br>Figma design systems and user research best practices<br>I'm currently learning<br>UX research methodologies and interaction design<br>Ask me about<br>React Native, building REST APIs, or getting into UI/UX as a CS student<br>Fun fact<br>I was a FIRST Robotics team captain and now I design the interfaces I wish our robot had
+🔭 **Currently working on:** FitTrack (AI-powered fitness app) and Kambaz Pazza (full-stack Q&A platform)
 
+👯 **Looking to collaborate on:** UI/UX projects and full-stack web or mobile apps
+
+🤝 **Looking for help with:** Figma design systems and user research best practices
+
+🌱 **Currently learning:** UX research methodologies and interaction design
+
+💬 **Ask me about:** React Native, building REST APIs, or getting into UI/UX as a CS student
+
+⚡ **Fun fact:** I was a FIRST Robotics team captain and now I design the interfaces I wish our robot had
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brooklyncone) 
