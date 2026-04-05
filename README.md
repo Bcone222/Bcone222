@@ -1,6 +1,6 @@
 ## Hi there, I'm Brooklyn 👋
 # 💫 About Me:
-🔭 **Currently working on:** FitTrack (AI-powered fitness app) and Kambaz Pazza (full-stack Q&A platform)
+🔭 **Currently working on:** FuelTrack (AI-powered nutrition app) and Kambaz Pazza (full-stack Q&A platform)
 
 👯 **Looking to collaborate on:** UI/UX projects and full-stack web or mobile apps
 
